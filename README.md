@@ -29,7 +29,7 @@
 
 | Resource Type        | Link                                                                            | Notes |
 | -------------------- | ------------------------------------------------------------------------------- | ----- |
-| Vendor KB            |  [ CVE-2024-22024 (XXE) for Ivanti Connect Secure and Ivanti Policy Secure (https://forums.ivanti.com/s/article/CVE-2024-22024-XXE-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure) | Ivanti Knowledge base article on fifth vulnerability |
+| Vendor KB            |  [ CVE-2024-22024 (XXE) for Ivanti Connect Secure and Ivanti Policy Secure](https://forums.ivanti.com/s/article/CVE-2024-22024-XXE-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure) | Ivanti Knowledge base article on fifth vulnerability |
 | Tool                 | [ Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure](https://github.com/0dteam/CVE-2024-22024/blob/main/cve_2024_22024.py) | Open Source **unvetted** Scanner for CVE-2024-22024 | 
 | Press                | [ Ivanti: Patch new Connect Secure auth bypass bug immediately](https://www.bleepingcomputer.com/news/security/ivanti-patch-new-connect-secure-auth-bypass-bug-immediately/) | Bleeping Computer article on CVE-2024-22024 |
 | Press                | [Ivanti discloses fifth vulnerability, doesn't credit researchers who found it](https://www.theregister.com/2024/02/09/ivanti_discloses_fifth_ics_vulnerability/) | Register article on fifth vulnerability |
