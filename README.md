@@ -30,13 +30,16 @@
 | Resource Type        | Link                                                                            | Notes |
 | -------------------- | ------------------------------------------------------------------------------- | ----- |
 | Vendor KB            |  [ CVE-2024-22024 (XXE) for Ivanti Connect Secure and Ivanti Policy Secure](https://forums.ivanti.com/s/article/CVE-2024-22024-XXE-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure) | Ivanti Knowledge base article on fifth vulnerability |
-| Tool                 | [ Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure](https://github.com/0dteam/CVE-2024-22024/blob/main/cve_2024_22024.py) | Open Source **unvetted** Scanner for CVE-2024-22024 | 
+| Exploit                 | [ Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure](https://github.com/0dteam/CVE-2024-22024/blob/main/cve_2024_22024.py) | **unvetted** PoC for CVE-2024-22024 | 
 | Press                | [ Ivanti: Patch new Connect Secure auth bypass bug immediately](https://www.bleepingcomputer.com/news/security/ivanti-patch-new-connect-secure-auth-bypass-bug-immediately/) | Bleeping Computer article on CVE-2024-22024 |
 | Press                | [Ivanti discloses fifth vulnerability, doesn't credit researchers who found it](https://www.theregister.com/2024/02/09/ivanti_discloses_fifth_ics_vulnerability/) | Register article on fifth vulnerability |
 | Discoverer     | [Ivanti Connect Secure CVE-2024-22024 - Are We Now Part Of Ivanti?](https://labs.watchtowr.com/are-we-now-part-of-ivanti/) | Watchtowr Labs article on discovering vuln |
 | CVE                  | [CVE-2024-22024](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-22024) | Authentication Bypass via XXE in SAML | 
+| Press                | [Hackers exploit Ivanti SSRF flaw to deploy new DSLog backdoor](https://www.bleepingcomputer.com/news/security/hackers-exploit-ivanti-ssrf-flaw-to-deploy-new-dslog-backdoor/) | Press re using CVE-2024-22024 to install the DSLog backdoor | 
+| Whitepaper / CERT Report | [Ivanti Connect Secure: Journey to the core of the DSLog backdoor](https://www.orangecyberdefense.com/fileadmin/general/pdf/Ivanti_Connect_Secure_-_Journey_to_the_core_of_the_DSLog_backdoor.pdf) | Orange Cyberdefense paper on DSLog backdoor |
 
-## Vulnerability Chart of Quick Links
+
+## CVE and Vendor Knowledge Base Links by Vulnerability
 
 | CVE Link | Type | Vendor KB |
 | -------- | ---- | --------- |
