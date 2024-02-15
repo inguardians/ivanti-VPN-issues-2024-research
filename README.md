@@ -10,7 +10,7 @@
 | Exploit              | [Metasploit module](http://packetstormsecurity.com/files/176668/Ivanti-Connect-Secure-Unauthenticated-Remote-Code-Execution.html) | Chains together CVE-2023-46805 and CVE-2024-21887 | 
 | Blog Post            | [Ivanti Zero-day Vulnerabilities: CVE-2023-46805 & CVE-2024-21887](https://www.rapid7.com/blog/post/2024/01/11/etr-zero-day-exploitation-of-ivanti-connect-secure-and-policy-secure-gateways/) | Blog post by Caitlin Condon at Rapid7 |
 | CISA Alert           | [Ivanti Releases Security Update for Connect Secure and Policy Secure Gateways](https://www.cisa.gov/news-events/alerts/2024/01/10/ivanti-releases-security-update-connect-secure-and-policy-secure-gateways) |CISA Alert 2024/01/10| 
-
+| Blog                 | [Ivanti Connect Secure Exploited to Install Cryptominers](https://www.greynoise.io/blog/ivanti-connect-secure-exploited-to-install-cryptominers) | GreyNoise blog on vuln monetization via crytomining |
 
 ## CVE-2024-21888 and CVE-2024-21893 - disclosed Wed, Jan 31
 
